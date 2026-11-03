@@ -2,6 +2,8 @@
 
 **Tools:** Excel, Power Query, Power BI, DAX | **Data:** 50,000 orders, 2022-2023 (public Kaggle practice dataset)
 
+**Data source:** [Amazon Sales Dataset (Kaggle, aliiihussain)](https://www.kaggle.com/datasets/aliiihussain/amazon-sales-dataset) (50,000 orders).
+
 ![Dashboard](dashboard.png)
 
 ## Question
