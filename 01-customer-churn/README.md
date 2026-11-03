@@ -13,11 +13,10 @@ Cleaned 64,374 records in Power Query and built 6 DAX measures for churn rate, s
 ## Findings
 - Overall churn is **47.37%**.
 - **Payment delay** is the strongest signal: 71% churn beyond 15 days vs about 10% before (Cohen's d = 1.34).
-- **Support calls**: 61%+ churn at 5+ calls vs about 24%.
 - Churned customers represent **$15.8M** of spend.
 
 ## Decision
-Send a payment alert at day 10 and trigger outreach at the 4th support call. An illustrative 5% save would retain about **$792K** (range $475K to $1.58M).
+Send a payment alert at day 10. An illustrative 5% save would retain about **$792K** (range $475K to $1.58M).
 
 ## Limitations
 The dataset is a practice dataset and looks statistically too clean; results demonstrate the method, not market findings. Dollar figures are scenario estimates.
