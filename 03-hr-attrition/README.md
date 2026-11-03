@@ -2,6 +2,8 @@
 
 **Tools:** Excel, Power Query, Power BI, DAX | **Data:** 1,470 employees (public Kaggle practice dataset)
 
+**Data source:** [IBM HR Analytics Employee Attrition & Performance (Kaggle, pavansubhasht)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) (1,470 employees).
+
 ![Dashboard](dashboard.png)
 
 ## Question
