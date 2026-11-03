@@ -2,6 +2,8 @@
 
 **Tools:** Excel, Power Query, Power BI, DAX | **Data:** 9,223 order lines, 2014-2017 (public Kaggle practice dataset)
 
+**Data source:** [Superstore Dataset (Kaggle, vivek468)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final). This analysis uses 9,223 rows (2014-2017).
+
 ![Dashboard](dashboard.png)
 
 ## Question
