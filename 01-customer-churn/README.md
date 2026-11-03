@@ -2,6 +2,8 @@
 
 **Tools:** Excel, Power Query, Power BI, DAX | **Data:** 64,374 customer records (public Kaggle practice dataset)
 
+**Data source:** [Customer Churn Dataset (Kaggle, muhammadshahidazeem)](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset), file `customer_churn_dataset-testing-master.csv` (64,374 rows).
+
 ![Dashboard](dashboard.png)
 
 ## Question
